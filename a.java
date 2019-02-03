@@ -9,6 +9,6 @@ class Solution {
         }
         //如果没有找到不相等的一组数据，直接返回数组的最后一个数字
         return nums[nums.length - 1];
-        //你是》
+        
     }
 }
